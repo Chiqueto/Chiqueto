@@ -3,8 +3,8 @@
 
 <div align="center">
 <a href="https://github.com/Chiqueto">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanOliveiraSilva&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanOliveiraSilva&layout=compact&langs_count=7&hide=contribs,issues&theme=midnight-purple"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiqueto&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Chiqueto&layout=compact&langs_count=7&hide=contribs,issues&theme=midnight-purple"/>
 
 </div>
 <br>
