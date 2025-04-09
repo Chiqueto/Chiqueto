@@ -15,9 +15,7 @@
 
 <br>
 
-  
 # Sobre mim
-  <img src="https://github.com/Chiqueto/Chiqueto/blob/main/img.png" alt=celebrate width=250 align=right>
 <div>
   <div>
     🎓 Atualmento estou graduando em Engenharia de Software pela UNIFACEF.
