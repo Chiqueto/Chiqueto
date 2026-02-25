@@ -3,8 +3,7 @@
 
 <div align="center">
 <a href="https://github.com/Chiqueto">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiqueto&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Chiqueto&layout=compact&langs_count=7&hide=contribs,issues&theme=midnight-purple"/>
+  ![Estatísticas do GitHub](https://github.com/Chiqueto/Chiqueto/blob/master/github-metrics.svg)
 
 </div>
 <br>
