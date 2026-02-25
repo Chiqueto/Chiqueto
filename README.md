@@ -2,8 +2,8 @@
 ### Seja muito bem vindo ao meu perfil do GitHub👋
 
 <div align="center">
+  <img src="https://github.com/Chiqueto/Chiqueto/blob/main/github-metrics.svg" />
 <a href="https://github.com/Chiqueto">
-  ![Estatísticas do GitHub](https://github.com/Chiqueto/Chiqueto/blob/master/github-metrics.svg)
 
 </div>
 <br>
