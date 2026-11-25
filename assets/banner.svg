@@ -44,7 +44,7 @@
 
     <text x="44" y="96" fill="url(#nameGrad)" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.6">Luís Felipe Chiqueto</text>
 
-    <text x="44" y="128" fill="#CBD5E1" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500">Web, Mobile, APIs Escaláveis &amp; Inteligência Artificial</text>
+    <text x="44" y="128" fill="#CBD5E1" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500">Web, Mobile, APIs REST &amp; Sistemas Corporativos</text>
 
     <text x="44" y="154" fill="#94A3B8" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400">Engenharia de Software @ UNIFACEF  •  São Joaquim da Barra, SP</text>
 
@@ -52,47 +52,47 @@
     <rect x="44" y="178" width="104" height="26" rx="8" fill="#1E293B" fill-opacity="0.85" stroke="#F59879" stroke-opacity="0.35" />
     <text x="96" y="195" text-anchor="middle" fill="#FDE68A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600">Java &amp; Spring</text>
 
-    <rect x="156" y="178" width="124" height="26" rx="8" fill="#1E293B" fill-opacity="0.85" stroke="#38BDF8" stroke-opacity="0.35" />
-    <text x="218" y="195" text-anchor="middle" fill="#BAE6FD" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600">Next.js &amp; Angular</text>
+    <rect x="156" y="178" width="116" height="26" rx="8" fill="#1E293B" fill-opacity="0.85" stroke="#34D399" stroke-opacity="0.35" />
+    <text x="214" y="195" text-anchor="middle" fill="#A7F3D0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600">Node &amp; Fastify</text>
 
-    <rect x="288" y="178" width="102" height="26" rx="8" fill="#1E293B" fill-opacity="0.85" stroke="#818CF8" stroke-opacity="0.35" />
-    <text x="339" y="195" text-anchor="middle" fill="#C7D2FE" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600">Kotlin &amp; RN</text>
+    <rect x="280" y="178" width="112" height="26" rx="8" fill="#1E293B" fill-opacity="0.85" stroke="#38BDF8" stroke-opacity="0.35" />
+    <text x="336" y="195" text-anchor="middle" fill="#BAE6FD" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600">Next.js &amp; React</text>
 
-    <rect x="398" y="178" width="84" height="26" rx="8" fill="#1E293B" fill-opacity="0.85" stroke="#34D399" stroke-opacity="0.35" />
-    <text x="440" y="195" text-anchor="middle" fill="#A7F3D0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600">AI &amp; 3D</text>
+    <rect x="400" y="178" width="102" height="26" rx="8" fill="#1E293B" fill-opacity="0.85" stroke="#818CF8" stroke-opacity="0.35" />
+    <text x="451" y="195" text-anchor="middle" fill="#C7D2FE" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600">Delphi &amp; SQL</text>
 
     <!-- Right Code Card -->
-    <rect x="512" y="28" width="348" height="184" rx="14" fill="#0B1120" fill-opacity="0.92" stroke="#334155" stroke-width="1" />
-    <rect x="512" y="28" width="348" height="32" rx="14" fill="#111827" />
-    <rect x="512" y="46" width="348" height="14" fill="#111827" />
-    <line x1="512" y1="60" x2="860" y2="60" stroke="#1E293B" stroke-width="1" />
+    <rect x="520" y="28" width="340" height="184" rx="14" fill="#0B1120" fill-opacity="0.92" stroke="#334155" stroke-width="1" />
+    <rect x="520" y="28" width="340" height="32" rx="14" fill="#111827" />
+    <rect x="520" y="46" width="340" height="14" fill="#111827" />
+    <line x1="520" y1="60" x2="860" y2="60" stroke="#1E293B" stroke-width="1" />
 
     <!-- Window Dots -->
-    <circle cx="530" cy="44" r="4.5" fill="#FF5F56" />
-    <circle cx="545" cy="44" r="4.5" fill="#FFBD2E" />
-    <circle cx="560" cy="44" r="4.5" fill="#27C93F" />
-    <text x="686" y="47.5" text-anchor="middle" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">profile.ts</text>
+    <circle cx="538" cy="44" r="4.5" fill="#FF5F56" />
+    <circle cx="553" cy="44" r="4.5" fill="#FFBD2E" />
+    <circle cx="568" cy="44" r="4.5" fill="#27C93F" />
+    <text x="690" y="47.5" text-anchor="middle" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">profile.ts</text>
 
     <!-- Code Content -->
-    <text x="530" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">
+    <text x="538" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">
       <tspan fill="#C084FC">const</tspan>
       <tspan fill="#E2E8F0"> dev </tspan>
       <tspan fill="#38BDF8">=</tspan>
       <tspan fill="#E2E8F0"> {</tspan>
     </text>
-    <text x="546" y="106" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">
+    <text x="554" y="106" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">
       <tspan fill="#7DD3FC">role</tspan><tspan fill="#94A3B8">: </tspan><tspan fill="#86EFAC">"Full Stack Developer"</tspan><tspan fill="#94A3B8">,</tspan>
     </text>
-    <text x="546" y="128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">
-      <tspan fill="#7DD3FC">backend</tspan><tspan fill="#94A3B8">: [</tspan><tspan fill="#FDE68A">"Java"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#FDE68A">"Spring"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#FDE68A">"FastAPI"</tspan><tspan fill="#94A3B8">],</tspan>
+    <text x="554" y="128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">
+      <tspan fill="#7DD3FC">backend</tspan><tspan fill="#94A3B8">: [</tspan><tspan fill="#FDE68A">"Java"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#FDE68A">"Spring"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#FDE68A">"Node"</tspan><tspan fill="#94A3B8">],</tspan>
     </text>
-    <text x="546" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">
-      <tspan fill="#7DD3FC">frontend</tspan><tspan fill="#94A3B8">: [</tspan><tspan fill="#FDE68A">"Next.js"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#FDE68A">"Angular"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#FDE68A">"3D"</tspan><tspan fill="#94A3B8">],</tspan>
+    <text x="554" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">
+      <tspan fill="#7DD3FC">frontend</tspan><tspan fill="#94A3B8">: [</tspan><tspan fill="#FDE68A">"Next.js"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#FDE68A">"React"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#FDE68A">"Angular"</tspan><tspan fill="#94A3B8">],</tspan>
     </text>
-    <text x="546" y="172" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">
-      <tspan fill="#7DD3FC">mobile</tspan><tspan fill="#94A3B8">: [</tspan><tspan fill="#FDE68A">"React Native"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#FDE68A">"WearOS"</tspan><tspan fill="#94A3B8">]</tspan>
+    <text x="554" y="172" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">
+      <tspan fill="#7DD3FC">data</tspan><tspan fill="#94A3B8">: [</tspan><tspan fill="#FDE68A">"Oracle"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#FDE68A">"Postgres"</tspan><tspan fill="#94A3B8">, </tspan><tspan fill="#FDE68A">"Delphi"</tspan><tspan fill="#94A3B8">]</tspan>
     </text>
-    <text x="530" y="194" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">
+    <text x="538" y="194" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5">
       <tspan fill="#E2E8F0">};</tspan>
     </text>
   </g>

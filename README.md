@@ -25,10 +25,10 @@
 
 Graduando em **Engenharia de Software** pela **UNIFACEF** (2023–2026), com formação técnica em **Desenvolvimento de Sistemas** pelo **SENAI** e pela **ETEC Pedro Badran**.
 
-Atuo no desenvolvimento **Full Stack** de aplicações ponta a ponta — desde APIs robustas e arquitetura backend em **Java (Spring Boot)** e **Python (FastAPI)** até interfaces web reativas com **Next.js**, **React** e **Angular**, além de ecossistemas **Mobile / WearOS**, **Digital Twins 3D** e **Visão Computacional**.
+Atuo no desenvolvimento **Full Stack**, tendo como base principal no backend **Java (Spring Boot)** e **Node.js (Fastify & Express)**, e no frontend **React**, **Next.js** e **TypeScript**, além de desenvolvimento mobile com **React Native**.
 
-- 🏢 **Experiência prática:** Desenvolvimento de sistemas corporativos com **Angular**, automação e sistemas embarcados na **Usina Alta Mogiana**, além de atuação prévia em sistemas ERP na **ACEDATA Software**.
-- 🚀 **Foco atual:** Produtos SaaS completos, arquiteturas com IA (RAG & Visão Computacional), aplicações em tempo real e renderização 3D na web.
+- 🏢 **Experiência prática:** Na **Usina Alta Mogiana**, atuo no desenvolvimento e manutenção de sistemas utilizando principalmente **Delphi** e banco **Oracle**, além de entregas pontuais com **Angular**, automação industrial e sistemas embarcados. Também iniciei minha trajetória como estagiário atuando com sistemas ERP na **ACEDATA Software**.
+- 🎯 **O que venho construindo:** Aplicações web e mobile completas, APIs REST bem estruturadas, integrações com meios de pagamento e storage em nuvem, além de projetos explorando tempo real, renderização 3D na web e IA aplicada.
 - 📫 **Contato direto:** `lfchiqueto@gmail.com`
 
 ---
@@ -49,14 +49,14 @@ Atuo no desenvolvimento **Full Stack** de aplicações ponta a ponta — desde A
 
 ## 🛠️ Stack & Ferramentas
 
-### Backend & APIs
+### Backend & Sistemas
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white" alt="Delphi" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
 </p>
 
@@ -64,14 +64,14 @@ Atuo no desenvolvimento **Full Stack** de aplicações ponta a ponta — desde A
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
 </p>
 
-### Mobile & Wearables
+### Mobile
 <p>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
@@ -80,22 +80,21 @@ Atuo no desenvolvimento **Full Stack** de aplicações ponta a ponta — desde A
 
 ### Bancos de Dados & Cache
 <p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzIj48cmVjdCB4PSIyIiB5PSI3IiB3aWR0aD0iMjAiIGhlaWdodD0iMTAiIHJ4PSI1Ii8%2BPC9zdmc%2B" alt="Oracle" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDMuNzkgMiA2djJjMCAyLjIxIDQuNDggNCAxMCA0czEwLTEuNzkgMTAtNFY2YzAtMi4yMS00LjQ4LTQtMTAtNHptMCAxMmMtNS41MiAwLTEwLTEuNzktMTAtNHYzYzAgMi4yMSA0LjQ4IDQgMTAgNHMxMC0xLjc5IDEwLTR2LTNjMCAyLjIxLTQuNDggNC0xMCA0em0wIDVjLTUuNTIgMC0xMC0xLjc5LTEwLTR2M2MwIDIuMjEgNC40OCA0IDEwIDRzMTAtMS43OSAxMC00di0zYzAgMi4yMS00LjQ4IDQtMTAgNHoiLz48L3N2Zz4%3D" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
-### Cloud, IA, Visão Computacional & Ferramentas
+### Infra, Cloud & Ferramentas
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Cloudflare%20R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare R2" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO" />
-  <img src="https://img.shields.io/badge/Unity%203D-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity 3D" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Unity%203D-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity 3D" />
 </p>
 
 ---
