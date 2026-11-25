@@ -23,7 +23,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Graduando em **Engenharia de Software** pela **UNIFACEF** (2023–2026), com formação técnica em **Desenvolvimento de Sistemas** pelo **SENAI** e pela **ETEC Pedro Badran**.
+Graduado em **Engenharia de Software** pela **UNIFACEF** (2023–2026), com formação técnica em **Desenvolvimento de Sistemas** pelo **SENAI** e pela **ETEC Pedro Badran**.
 
 Atuo no desenvolvimento **Full Stack**, tendo como base principal no backend **Java (Spring Boot)** e **Node.js (Fastify & Express)**, e no frontend **React**, **Next.js** e **TypeScript**, além de desenvolvimento mobile com **React Native**.
 
